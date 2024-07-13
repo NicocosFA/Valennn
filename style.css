@@ -1,0 +1,17 @@
+div.titulo{
+    font-family: 'Playfair Display';                                      
+    text-align: center;
+    border: 10px;
+    
+}
+div.botones{
+    text-align: center;
+}
+div.imagen{
+    text-align: center;
+}
+body{
+    background-image: url(./img/fondo.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
